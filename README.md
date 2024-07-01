@@ -10,7 +10,7 @@ APIs used here are: <br>
 >OpenWeatherMap API <br>
 >Geoapify API.<br>
 
-Note: All the skills in this challenge were covered during our class work activities no extra resources or tutor sessions I used here.<br>
+Note: All the skills in this challenge were covered during our class work activities no extra resources I used here.<br>
 --------------------------------
 
 OpenWeatherMap API Key
