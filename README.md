@@ -4,21 +4,22 @@ This repository consists of a challenge created using Pandas and Matplotlib via 
 
 1. WeatherPy <br>
 
-2.VacationPy <br>
+2. VacationPy <br>
 
 APIs used here are: <br>
 >OpenWeatherMap API <br>
 >Geoapify API.<br>
 
-Note: All the skills in this challenge were covered during our class work activities no extra resources or tutor sessions I used here.
---------------------------- <br>
+Note: All the skills in this challenge were covered during our class work activities no extra resources or tutor sessions I used here.<br>
+--------------------------------
+
 OpenWeatherMap API Key
 
 Geoapify API Key
 
 <b> Follow the instructions in each website to get your API keys. Links for obtaining an API key: </b>
 
-For the weather_api_key: https://openweathermap.org/
+For the weather_api_key: https://openweathermap.org/ <br>
 For the geoapify_key: https://www.geoapify.com/get-started-with-maps-api
 
 ---------------------------------
